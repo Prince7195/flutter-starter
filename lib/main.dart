@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import "src/stateful.dart";
+import "src/slider.dart";
 
-void main() => runApp(new MyStateFulApp());
+void main() => runApp(new MySlider());
