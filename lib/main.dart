@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import "src/slider.dart";
+import "src/checkbox.dart";
 
-void main() => runApp(new MySlider());
+void main() => runApp(new MyCheckbox());
